@@ -14,7 +14,7 @@ const carvana = [
 
 	{
         'id': 'SvT11RaP',
-        'year': '2011'
+        'year': '2011',
         'make': 'Ford',
         'model': 'F150',
         'trim': 'SVT Raptor',
